@@ -37,8 +37,6 @@ Olá! Eu sou Luiz Felipe, um desenvolvedor apaixonado por tecnologia e inovaçã
 
 ## Tecnologias e Ferramentas
 
-## Tecnologias e Ferramentas
-
 Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
 
 - **Linguagens de Programação:** Swift, C++, C#
