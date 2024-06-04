@@ -26,12 +26,13 @@ Olá! Eu sou Luiz Felipe, um desenvolvedor apaixonado por tecnologia e inovaçã
 - 👯 Estou procurando colaborar em Projetos Open-Source.
 - 💬 Pergunte-me sobre Tecnologias em Geral.
 - 📫 Como me encontrar: @luizpassaroni
--  ⚡ Curiosidade: [alguma curiosidade ou fato interessante sobre você]
+-  ⚡ Curiosidade: gosto de jogar video-game e estar com meus amigos e família.
 
 ## Minhas Estatísticas no GitHub
 
 <div style="display: flex; flex-direction: row;">
   <img src="https://github-readme-stats.vercel.app/api?username=luizpassaroni&show_icons=true&theme=dracula" alt="Minhas Estatísticas no GitHub" height="200px"/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizpassaroni&layout=compact&theme=dracula" alt="Linguagens Mais Usadas" height="200px"/>
 </div>
 
