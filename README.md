@@ -49,7 +49,7 @@ Estou sempre aberto a colaborações e contribuições. Se você deseja colabora
 Você pode me encontrar nas seguintes plataformas:
 
 - [LinkedIn](https://www.linkedin.com/in/luizpassaroni/)
-- [X](x.com/luizpassaroni)
+- [X ](https://x.com/luizpassaroni/)
 
 Muito obrigado por visitar meu GitHub! 😊
 
