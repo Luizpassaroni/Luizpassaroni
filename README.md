@@ -30,7 +30,12 @@ Olá! Eu sou Luiz Felipe, um desenvolvedor apaixonado por tecnologia e inovaçã
 
 ## Minhas Estatísticas no GitHub
 
-![Minhas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=luizpassaroni&show_icons=true&theme=dracula)
+<div style="display: flex; flex-direction: row;">
+  <img src="https://github-readme-stats.vercel.app/api?username=luizpassaroni&show_icons=true&theme=dracula" alt="Minhas Estatísticas no GitHub" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizpassaroni&layout=compact&theme=dracula" alt="Linguagens Mais Usadas" height="200px"/>
+</div>
+
+## Tecnologias e Ferramentas
 
 ## Tecnologias e Ferramentas
 
