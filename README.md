@@ -28,7 +28,7 @@ Olá! Eu sou Luiz Felipe, um desenvolvedor apaixonado por tecnologia e inovaçã
 - 📫 Como me encontrar: @luizpassaroni
 -  ⚡ Curiosidade: gosto de jogar video-game e estar com meus amigos e família.
 
-## Minhas Estatísticas no GitHub
+## Minhas Estatísticas no GitHub e WakaTime
 
 <div style="display: flex; flex-direction: row;">
   <img src="https://github-readme-stats.vercel.app/api?username=luizpassaroni&show_icons=true&theme=dracula" alt="Minhas Estatísticas no GitHub" height="150px"/>
