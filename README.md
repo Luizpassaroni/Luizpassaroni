@@ -36,10 +36,13 @@ Olá! Eu sou Luiz Felipe, um desenvolvedor apaixonado por tecnologia e inovaçã
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizpassaroni&layout=compact&theme=dracula" alt="Linguagens Mais Usadas" height="150px"/>
 </div>
 
-<a href="https://wakatime.com/@luizpassaroni"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=luizpassaroni&theme=github_dark&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@luizpassaroni's wakatime stats"/></a>
 <a href="https://wakatime.com/@luizpassaroni">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=luizpassaroni&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-    </a>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=luizpassaroni&theme=github_dark&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time" width="58%" alt="@luizpassaroni's wakatime stats"/>
+</a>
+<a href="https://wakatime.com/@luizpassaroni">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=luizpassaroni&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+</a>
+
 ## Tecnologias e Ferramentas
 
 Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
