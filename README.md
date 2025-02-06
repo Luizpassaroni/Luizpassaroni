@@ -22,7 +22,7 @@ Olá! Eu sou Luiz Felipe, um desenvolvedor apaixonado por tecnologia e inovaçã
 ## Sobre Mim
 
 - 🔭 Atualmente estou cursando Ciência da Computação na UVA.
-- 🌱 Estou aprendendo HTML e CSS.
+- 🌱 Estou aprendendo swift.
 - 👯 Estou procurando colaborar em Projetos Open-Source.
 - 💬 Pergunte-me sobre Tecnologias em Geral.
 - 📫 Como me encontrar: @luizpassaroni
