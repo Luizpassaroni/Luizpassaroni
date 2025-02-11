@@ -62,6 +62,6 @@ Você pode me encontrar nas seguintes plataformas:
 
 - [LinkedIn](https://www.linkedin.com/in/luizpassaroni/)
 - [X ](https://x.com/luizpassaroni/)
-
+- [Instagram ](https://www.instagram.com/luizpassaroni/)
 Muito obrigado por visitar meu GitHub! 😊
 
